@@ -20,7 +20,7 @@ Finish project 3, finish any readings for OOP, start Thucydides/aquire required 
 Then go to my cousin's wedding.
 
 **Tip Of The Week**
-Starting projects early, has been the real lesson of this course. You never know when something is going to break and require a rework.
+Starting projects early, has been the real lesson of this course. You never know when something is going to break and require a rework. test123
 
 
 
