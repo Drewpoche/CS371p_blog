@@ -20,5 +20,5 @@ Finish up algo and linear algebra homework. Looking forward to no more projects 
 
 **Sad thing of the week**
 My usual Voip program has its servers getting shut down on December 5th.
-Rip Dolby Axon.
+Rip Dolby Axon. 
 
